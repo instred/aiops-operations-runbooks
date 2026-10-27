@@ -72,8 +72,5 @@ their output in the context of the affected workload.
 - [ ] Verify that CPU utilization and application response times improve.
 - [ ] Record the resolution and relevant evidence.
 
-## 9. Post-Incident Review
 
-Document the root cause, customer impact, corrective action,
-and preventive measures after the incident is resolved.
 
